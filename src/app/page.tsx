@@ -24,7 +24,7 @@ export default async function HomePage(props: Props) {
         <main className="mx-auto max-w-6xl py-20 px-5">
             <Search />
 
-            <div className="grid grid-cols-2 lg:grid-cols-3 gap-4">
+            <div className="grid grid-cols-2 lg:grid-cols-3 gap-2 md:gap-4">
                 {videos.Search.map((video) => (
                     <CardMovie {...video} />
                 ))}
