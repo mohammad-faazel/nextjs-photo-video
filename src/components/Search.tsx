@@ -26,7 +26,7 @@ export default function Search(props: Props) {
             />
             <button
                 type="submit"
-                className="btn btn-info rounded-full px-10 text-white"
+                className="btn btn-info rounded-full md:px-10 text-white"
             >
                 Search
             </button>

@@ -19,7 +19,7 @@ export default function CardMovie(props: Props) {
                 <img src={Poster} alt={Title} className="w-full" />
             </figure>
             <div className="card-body">
-                <h2 className="card-title mb-5">{Title}</h2>
+                <h2 className="card-title text-base md:text-lg lg:text-xl mb-5">{Title}</h2>
                 <div className="card-actions justify-end mt-auto">
                     <div className="badge badge-outline">{Type}</div>
                     <div className="badge badge-outline">{Year}</div>
