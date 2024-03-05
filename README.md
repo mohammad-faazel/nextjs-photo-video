@@ -17,3 +17,11 @@ bun dev
 Open [Demo](https://mf-movie-checker.netlify.app/) with your browser to see the result.
 
 https://mf-movie-checker.netlify.app/
+
+
+## Used Packages
+
+[Tailwindcss](https://tailwindcss.com/)
+[Daisyui](https://daisyui.com/)
+[Typescript](https://www.typescriptlang.org/)
+[Recoil JS](https://recoiljs.org/)
